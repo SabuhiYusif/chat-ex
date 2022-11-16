@@ -1,4 +1,4 @@
-# ChatEx
+# ChatEx - Messaging platform
 
 To start your Phoenix server:
 
